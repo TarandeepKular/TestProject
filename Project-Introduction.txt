@@ -1,1 +1,3 @@
 Step 5 o) Project modification
+Step 5 r) Hello.java
+Step 6 e)
